@@ -1,0 +1,34 @@
+
+    body{
+        
+}
+      
+    .estilo_div_a{
+        background-color: rgb(128,0,128);
+        width: 100%;
+        height: 250px;
+        display: flex;
+        align-items: center;
+    }
+    .estilo_div_b{
+        background-color: rgb(200, 162,200);
+        width: 250px;
+        height: 100%;
+        border: 20px dashed red;   
+    }
+    .estilo_div_c{
+        background-color: aqua;
+        width: 30%;
+        height: 80%;   
+    }
+
+    
+   
+    
+
+   
+   
+    
+    
+
+
